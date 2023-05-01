@@ -39,6 +39,19 @@ now we need to to push image in to ECR
 ![image](https://user-images.githubusercontent.com/85178565/235530400-69f39b4e-86fd-4606-ba5e-e84f809cfbee.png)
 
 
+![image](https://user-images.githubusercontent.com/85178565/235535986-f7218668-34df-43f9-b649-0bd4162928ea.png)
+
+
+Go to ECS create task definition
+
+![image](https://user-images.githubusercontent.com/85178565/235536181-9557ab5e-3fda-4fbd-b0ec-85449faaa522.png)
+
+
+Take public ip run on browser
+
+![image](https://user-images.githubusercontent.com/85178565/235536353-c0304b24-ac71-4fcd-bee7-276aa6ddc917.png)
+
+
 
 
 
